@@ -1,0 +1,3 @@
+﻿  Heap_huffman.cpp
+Heap_huffman.obj : error LNK2019: 无法解析的外部符号 "class BiTree<int> & __cdecl AddTree(class BiTree<int> &,class BiTree<int> &)" (?AddTree@@YAAAV?$BiTree@H@@AAV1@0@Z)，该符号在函数 _main 中被引用
+C:\Users\Administrator.WIN-20160308UMZ\Desktop\PG\c\数据结构\Heap_huffman\Debug\Heap.exe : fatal error LNK1120: 1 个无法解析的外部命令
